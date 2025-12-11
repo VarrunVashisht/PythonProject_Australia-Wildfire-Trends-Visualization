@@ -1,8 +1,3 @@
-Below is a clean, beginner-friendly **README for GitHub – Part 1 only**.
-You can copy/paste it directly into a `README.md` file in your repository.
-
----
-
 # 🔥 Wildfire Analysis in Australia – Part 1
 
 ### *Plotting, Visualization & Geographic Mapping (Beginner Friendly)*
