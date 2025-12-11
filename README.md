@@ -145,46 +145,7 @@ You can open it in any web browser.
 
 ---
 
-# 📂 **Project Structure (Recommended)**
-
-```
-wildfire-analysis/
-│
-├── data/
-│   └── Historical_Wildfires.csv        ← dataset (optional, auto-loaded by URL)
-│
-├── part1/
-│   └── wildfires_part1.py              ← code for all tasks 1.1–1.9
-│
-├── README.md                           ← this file
-│
-└── outputs/
-    └── australia_wildfire_regions.html ← Folium map output
-```
-
----
-
-# 🚀 **How to Run the Code**
-
-### 1. Open the project in **PyCharm**
-
-### 2. Install dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn folium
-```
-
-### 3. Run:
-
-```
-wildfires_part1.py
-```
-
-Plots will appear in PyCharm’s output window, and the Folium map will be saved as an HTML file.
-
----
-
-# 📘 **What You Learn in Part 1**
+# 📘 **What You Learn **
 
 ✔ Data loading and cleaning
 ✔ Working with dates (year, month)
@@ -195,8 +156,8 @@ Plots will appear in PyCharm’s output window, and the Folium map will be saved
 
 ---
 
-If you'd like, I can also create:
-
+# Author: 
+## Varrun Vashisht
 ✅ A GitHub-ready **README for Part 2 (Dashboard)**
 ✅ A combined README for the whole project
 ✅ A cleaned, beginner-friendly `.py` file for all your tasks
