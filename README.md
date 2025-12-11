@@ -153,8 +153,4 @@ You can open it in any web browser.
 
 # Author: 
 ## Varrun Vashisht
-✅ A GitHub-ready **README for Part 2 (Dashboard)**
-✅ A combined README for the whole project
-✅ A cleaned, beginner-friendly `.py` file for all your tasks
 
-Just tell me!
