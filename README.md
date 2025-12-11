@@ -140,7 +140,7 @@ You can open it in any web browser.
 
 ---
 
-# 📘 **What You Learn **
+# 📘 What You Learn 
 
 ✔ Data loading and cleaning
 ✔ Working with dates (year, month)
